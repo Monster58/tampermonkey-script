@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  泛雅网络教学刷课倍速播放自动播放下一节，点开某一节课后点击上方16倍速播放视频按钮进入连续16倍速播放视频。
 // @icon         https://www.zcloud.cool/favicon.ico
-// @author       You
+// @author       Monster58
 // @match        *://*.mooc1.chaoxing.com/mycourse/studentstudy*
 // @grant        none
 // ==/UserScript==
